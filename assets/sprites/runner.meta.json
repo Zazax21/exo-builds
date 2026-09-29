@@ -1,0 +1,1 @@
+{"name":"runner","frameSize":[184,217],"scale":0.5,"layers":{"body":{"directions":8,"anims":{"move":{"frames":8,"fps":16,"loop":true},"attack":{"frames":5,"fps":14,"loop":false},"death":{"frames":8,"fps":14,"loop":false}}}},"sockets":{}}

@@ -1,0 +1,1 @@
+{"name":"relay","frameSize":[560,1100],"scale":0.8,"layers":{"body":{"directions":1,"anims":{"idle":{"frames":1,"fps":1,"loop":true}}},"glow":{"directions":1,"anims":{"idle":{"frames":1,"fps":1,"loop":true}}},"ring":{"directions":1,"anims":{"spin":{"frames":8,"fps":12,"loop":true}}},"bloom":{"directions":1,"anims":{"idle":{"frames":1,"fps":1,"loop":true}}}},"sockets":{}}

@@ -1,0 +1,1 @@
+{"name":"brute","frameSize":[472,767],"scale":0.5,"layers":{"body":{"directions":8,"anims":{"move":{"frames":10,"fps":8,"loop":true},"attack":{"frames":8,"fps":12,"loop":false},"charge":{"frames":8,"fps":16,"loop":true},"death":{"frames":10,"fps":12,"loop":false}}}},"sockets":{}}

@@ -1,0 +1,1 @@
+{"name":"brood","frameSize":[640,821],"scale":0.5,"layers":{"body":{"directions":8,"anims":{"move":{"frames":10,"fps":8,"loop":true},"attack":{"frames":8,"fps":12,"loop":false},"spawn":{"frames":8,"fps":10,"loop":false},"death":{"frames":12,"fps":10,"loop":false}}}},"sockets":{}}

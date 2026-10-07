@@ -1,0 +1,1 @@
+{"name":"spitter","frameSize":[208,339],"scale":0.5,"layers":{"body":{"directions":8,"anims":{"move":{"frames":10,"fps":9,"loop":true},"attack":{"frames":8,"fps":14,"loop":false},"death":{"frames":8,"fps":12,"loop":false}}}},"sockets":{}}

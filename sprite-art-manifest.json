@@ -437,8 +437,8 @@
       "sha256": "61b471323e29cee65cd7097255411c0b14dea9196eacb0820057128400f09343"
     },
     "pc/sentinel.meta.json": {
-      "bytes": 1350,
-      "sha256": "8d16bdb77a7770b0fec4f708c39371988027719326507e24394a38cc0d93d9e7"
+      "bytes": 46186,
+      "sha256": "eb76df7a1a5ec33b324449edca7421f417dbb287555509b137910770dff6dab4"
     },
     "pc/skitter-0.webp": {
       "bytes": 8696538,
@@ -973,8 +973,8 @@
       "sha256": "30d479f3c0cda623b920edd3db18a062a55d26303eb16e27b0e7632ce3494513"
     },
     "sentinel.meta.json": {
-      "bytes": 846,
-      "sha256": "9d8ebd92d45c2cedf2ba3506c317f5d9f66e84f73a1b0d7a31b4a77791ea35cc"
+      "bytes": 23155,
+      "sha256": "79917c314c9e06da43d986c24d9238574d5a2149f24e07eef4c72a57fd751e60"
     },
     "skitter-0.webp": {
       "bytes": 1806682,

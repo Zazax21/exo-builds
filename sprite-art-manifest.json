@@ -24,6 +24,30 @@
       "bytes": 32836,
       "sha256": "498a0753e9b501524e5cc18a21295a3afd7228aff077a618f642546c67ff77ec"
     },
+    "astc/sentinel-0.ktx": {
+      "bytes": 1871492,
+      "sha256": "09bb4f35e3f21f6053c33ca26f4ae216bc5dd2902d83fe4c4d504922c0124b76"
+    },
+    "astc/sentinel-0_n.ktx": {
+      "bytes": 262212,
+      "sha256": "198e09c9a9f93002c8f7041041b1ab558fea1323f2794fca5d5c7b6792c0bd2c"
+    },
+    "astc/sentinel-1.ktx": {
+      "bytes": 1871492,
+      "sha256": "73e49f4eba4c7cb5c68642d6919be20763cd7cc64ccf230086c6c5b3402ee163"
+    },
+    "astc/sentinel-1_n.ktx": {
+      "bytes": 262212,
+      "sha256": "530cf45da9f1402caf6ea4c6cf9a9cd2b3454f1d62daff7a98bb62df5b0dfa59"
+    },
+    "astc/sentinel-2.ktx": {
+      "bytes": 1871492,
+      "sha256": "7eae0439c72fff0d55bfaa1041b2d07b311a6011befaf255efda6fee15e6c0ba"
+    },
+    "astc/sentinel-2_n.ktx": {
+      "bytes": 262212,
+      "sha256": "d4006755a770dbd0ebd8a87f6ca1fa65713bac360d2231e0de942bcb6999ee82"
+    },
     "astc/skitter-0.ktx": {
       "bytes": 1871492,
       "sha256": "fb439173424d67817a941ef7b50bb314ce657f8192109726ba260b719776531b"
@@ -359,6 +383,62 @@
     "pc/marine_elevated.meta.json": {
       "bytes": 5206,
       "sha256": "d7249bc8cbc2fe21c6b6f0005aeabad10ad8b8f6b16dd2dae4cd3d9c3d292249"
+    },
+    "pc/sentinel-0.webp": {
+      "bytes": 7155534,
+      "sha256": "88bfb362beb4b5bfd59aff891d6f942cf488e8037885ed437b1d13fdbe2d6033"
+    },
+    "pc/sentinel-0_n.webp": {
+      "bytes": 4318592,
+      "sha256": "25b79db4d229f2e663797f6e60a12f3be09ce7b30d0f6b880e189199f202821f"
+    },
+    "pc/sentinel-1.webp": {
+      "bytes": 8033210,
+      "sha256": "5aa9c1495dc9ec7d7397c843867ef18caf5390c8c593d833674677c0ef1acba7"
+    },
+    "pc/sentinel-1_n.webp": {
+      "bytes": 4851784,
+      "sha256": "9dcc142a4c80e95bd2fb502bae8eb2bababc75b0c0c8564c3255c39b5e3d8ab3"
+    },
+    "pc/sentinel-2.webp": {
+      "bytes": 8128784,
+      "sha256": "adcd685a10a5f7cc1df7b96c6dd1c188352eb1bcfeb5ebf3f388fbac44ecf0c3"
+    },
+    "pc/sentinel-2_n.webp": {
+      "bytes": 4872786,
+      "sha256": "5a52fe6ac67bf3504ba961a1b209f05fe47a36636ebc207d3da1ff534eb8b574"
+    },
+    "pc/sentinel-3.webp": {
+      "bytes": 8174476,
+      "sha256": "0a42ec782bac5da179656bc3f42508daef5cf1e0082812e86673c6cbfc37d358"
+    },
+    "pc/sentinel-3_n.webp": {
+      "bytes": 5031154,
+      "sha256": "96c7ca79ef8217c3f277bcf0e4b3892806376af07b981c8a2100243e65268155"
+    },
+    "pc/sentinel-4.webp": {
+      "bytes": 8795626,
+      "sha256": "f4123aa3efc6e7fc77a7f9d064c951394a0dda36278bb64dc44839984327dd4b"
+    },
+    "pc/sentinel-4_n.webp": {
+      "bytes": 5452718,
+      "sha256": "41ffc630839db95b6028e31cc5caa553dc4efcfd03138aa4a2fbfe71f4728409"
+    },
+    "pc/sentinel-5.webp": {
+      "bytes": 2470410,
+      "sha256": "32fa7535e2c849ba2bac52e09087b7a0506056db05efb20b7e4735ee996d2239"
+    },
+    "pc/sentinel-5_n.webp": {
+      "bytes": 1505230,
+      "sha256": "5997039392f7462b85501143df418d066deff9431c3402e0c8912bf50b64157c"
+    },
+    "pc/sentinel.json": {
+      "bytes": 440854,
+      "sha256": "61b471323e29cee65cd7097255411c0b14dea9196eacb0820057128400f09343"
+    },
+    "pc/sentinel.meta.json": {
+      "bytes": 1350,
+      "sha256": "8d16bdb77a7770b0fec4f708c39371988027719326507e24394a38cc0d93d9e7"
     },
     "pc/skitter-0.webp": {
       "bytes": 8696538,
@@ -863,6 +943,38 @@
     "pc/skitter_shell8.meta.json": {
       "bytes": 1569,
       "sha256": "f6cea11cb4264fd71dd97d2490225816bae80055be29cf7728f0e6fedfb695f7"
+    },
+    "sentinel-0.png": {
+      "bytes": 4387351,
+      "sha256": "b178c5022896017aa8f33b8e491add233227c88e3cb586f7a87ef78def5145d9"
+    },
+    "sentinel-0_n.png": {
+      "bytes": 949384,
+      "sha256": "6d6817bb0186f8b71fe9ab409bf663b9ec46b10473a437e3db1e6b657542a3ec"
+    },
+    "sentinel-1.png": {
+      "bytes": 5268627,
+      "sha256": "e53058d446a2d23a27569a5db0f7835854335f099688ddb3d9b074dca22ae79d"
+    },
+    "sentinel-1_n.png": {
+      "bytes": 1126973,
+      "sha256": "de2924d760445a1ec25a27332374bca513145597894c856a61d9cea889105194"
+    },
+    "sentinel-2.png": {
+      "bytes": 4602237,
+      "sha256": "6980f8c88871a8e612863a163833825f0d0c353474707b7e8bc1e62f48830ef1"
+    },
+    "sentinel-2_n.png": {
+      "bytes": 1023546,
+      "sha256": "2bec68f5d372355d5f6986b0848a58dc9b038ff77740406f3c835809c8f1e994"
+    },
+    "sentinel.json": {
+      "bytes": 216974,
+      "sha256": "30d479f3c0cda623b920edd3db18a062a55d26303eb16e27b0e7632ce3494513"
+    },
+    "sentinel.meta.json": {
+      "bytes": 846,
+      "sha256": "9d8ebd92d45c2cedf2ba3506c317f5d9f66e84f73a1b0d7a31b4a77791ea35cc"
     },
     "skitter-0.webp": {
       "bytes": 1806682,

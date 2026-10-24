@@ -24,6 +24,30 @@
       "bytes": 32836,
       "sha256": "498a0753e9b501524e5cc18a21295a3afd7228aff077a618f642546c67ff77ec"
     },
+    "astc/screamer-0.ktx": {
+      "bytes": 1871492,
+      "sha256": "13a4e50dcb15c7ae6769005db0cba6c19ad90fb3b290942baad5b4ddcdda822b"
+    },
+    "astc/screamer-0_n.ktx": {
+      "bytes": 262212,
+      "sha256": "2d23766cfd1e05f1a14ca9b53b4aa5d529d5c070577c73fd6310b3f0bf19e1ae"
+    },
+    "astc/screamer-1.ktx": {
+      "bytes": 1871492,
+      "sha256": "e908b8882c0eb1e48fd5321e8a8ccf42b2135013a8adb21df2c290105f4d65ab"
+    },
+    "astc/screamer-1_n.ktx": {
+      "bytes": 262212,
+      "sha256": "1d64672dada069ee4ecfb3a54077c3328270e3c9befd95d1cd499db67ad0f75d"
+    },
+    "astc/screamer-2.ktx": {
+      "bytes": 1871492,
+      "sha256": "8ea3a3d6fd2406054202bc9faa9164cfcad6db78eb05891285d8d9ee3bd755ad"
+    },
+    "astc/screamer-2_n.ktx": {
+      "bytes": 262212,
+      "sha256": "5d000c84770ad94911ed753afe267d24c1088bd2369ede352f4daf7f2a5f5815"
+    },
     "astc/sentinel-0.ktx": {
       "bytes": 1871492,
       "sha256": "09bb4f35e3f21f6053c33ca26f4ae216bc5dd2902d83fe4c4d504922c0124b76"
@@ -383,6 +407,62 @@
     "pc/marine_elevated.meta.json": {
       "bytes": 5206,
       "sha256": "d7249bc8cbc2fe21c6b6f0005aeabad10ad8b8f6b16dd2dae4cd3d9c3d292249"
+    },
+    "pc/screamer-0.webp": {
+      "bytes": 9272578,
+      "sha256": "163f605cdca7a0b6844d571e3937c3944ef1ded611eb65d3025da3b0253b9f54"
+    },
+    "pc/screamer-0_n.webp": {
+      "bytes": 5438952,
+      "sha256": "067aeb1f0a9e3ffad3098c81b99a3151c6f803397c60be8cffca9bbf3a6fe905"
+    },
+    "pc/screamer-1.webp": {
+      "bytes": 8478104,
+      "sha256": "0747df218866f50a3fc5cd8adfec01edec96b92704b72278c5f23d424a32187e"
+    },
+    "pc/screamer-1_n.webp": {
+      "bytes": 4956812,
+      "sha256": "8ba6660db07c8311e04a4599030c8a3531d316b64e2c7c8b1ccb01b7b40941f9"
+    },
+    "pc/screamer-2.webp": {
+      "bytes": 8221368,
+      "sha256": "cd8834681822ced8562db3acace792c13ea4711e493b06817ea082fce5e4bf4a"
+    },
+    "pc/screamer-2_n.webp": {
+      "bytes": 4780700,
+      "sha256": "337fd57d2550e83cfb68c8d7aea0c497ced7396407bae62beac72714a04a22cc"
+    },
+    "pc/screamer-3.webp": {
+      "bytes": 8139136,
+      "sha256": "9759e1a4d93bcb4d1a4ac09ef8a41b8544e5627f6a745cb6fd530fcbc1279aa7"
+    },
+    "pc/screamer-3_n.webp": {
+      "bytes": 4656712,
+      "sha256": "ba634dfaf6ec52aae63c1f82ca6e03f195a0a5707156d066fe0148874220a516"
+    },
+    "pc/screamer-4.webp": {
+      "bytes": 8599206,
+      "sha256": "478e008459239c97af14cbb90a82cc8b8b83ef0b429912aa0a6a27083fe0c4a0"
+    },
+    "pc/screamer-4_n.webp": {
+      "bytes": 4897932,
+      "sha256": "c9b43880b93253e52f36ba77ea9532bc1c254442520ade13cc3dea6b86bdd086"
+    },
+    "pc/screamer-5.webp": {
+      "bytes": 3059632,
+      "sha256": "207af48fd380ed3462a84599fae3151b999cbde249c5ea096f47ce2a842f715d"
+    },
+    "pc/screamer-5_n.webp": {
+      "bytes": 1637868,
+      "sha256": "63d9fcb0d5ec7418fbaa792244599fa10482dab14766c3c586dc8452f555c1c6"
+    },
+    "pc/screamer.json": {
+      "bytes": 634975,
+      "sha256": "9485f4f770839251602e81823c415ae3525ddb377d097de75001cd45d6710d00"
+    },
+    "pc/screamer.meta.json": {
+      "bytes": 1527,
+      "sha256": "7c022e57461ac6b2fd0fb500f7c7f82034bdcfd4afb0cfca38f18bdec55220e5"
     },
     "pc/sentinel-0.webp": {
       "bytes": 7155534,
@@ -943,6 +1023,38 @@
     "pc/skitter_shell8.meta.json": {
       "bytes": 1569,
       "sha256": "f6cea11cb4264fd71dd97d2490225816bae80055be29cf7728f0e6fedfb695f7"
+    },
+    "screamer-0.webp": {
+      "bytes": 3487622,
+      "sha256": "316794fcec119f8f29a9e2f82627cada23f241abda701d18fd577fb70036599a"
+    },
+    "screamer-0_n.webp": {
+      "bytes": 1204574,
+      "sha256": "29a4129e2380e6a6851f4fc82efbf8833394f75ef60d0bfc790d4ae3b8ecd3ad"
+    },
+    "screamer-1.webp": {
+      "bytes": 3360702,
+      "sha256": "b69d68681a886a926c88c61c52beae008f387a9c51dbc686bf20c46f4322b5b8"
+    },
+    "screamer-1_n.webp": {
+      "bytes": 1146602,
+      "sha256": "f038faec69e3940026b6fddff86302fb721d668d1137fd323e26e0509d5b5a69"
+    },
+    "screamer-2.webp": {
+      "bytes": 2530572,
+      "sha256": "eac2eca09b1338c3e3af4054db90d80abc35a74061c79a34fcef46be336aa6bc"
+    },
+    "screamer-2_n.webp": {
+      "bytes": 844152,
+      "sha256": "f76c1f8048e72eac2b9caff2dc0e9bb1be7170d90405b9f21b3608b4e4331745"
+    },
+    "screamer.json": {
+      "bytes": 615034,
+      "sha256": "f57b8e5132fa6c4abeee8a71e6e6ca71b5b95cbedfdf74137d2f6ee323649802"
+    },
+    "screamer.meta.json": {
+      "bytes": 1542,
+      "sha256": "92f2055faad7432abd601de24566cd58530ee9817b1fe45fbaa5b925926ad374"
     },
     "sentinel-0.png": {
       "bytes": 4387351,

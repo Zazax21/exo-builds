@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "fadeSeconds": 4,
+  "tracks": [
+    {
+      "title": "Calm",
+      "url": "assets/audio/music/calm.ogg"
+    },
+    {
+      "title": "After Hours Glow _ Deep House Music - Zazax Music Lab",
+      "url": "assets/audio/music/owner/after-hours-glow-deep-house-music-zazax-music-lab.ogg",
+      "duration": 2256.2065,
+      "sourceSha256": "33018d26e87844170f48af1dcb4ba875f6da3af2026f9e63a455de74941a26b3",
+      "audioSha256": "35fb40cff17100109533c69c7e4665f6cf82f48d5ca00cbd644826d4a77d13ae"
+    },
+    {
+      "title": "Amber Hours _ Deep House Night Drive - Zazax Music Lab",
+      "url": "assets/audio/music/owner/amber-hours-deep-house-night-drive-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "1bade4f29ed31dfdf97d625ae7f1ae3c220a9bcb92ce36cbb64b7267c1afd640",
+      "audioSha256": "53556222c4c58160224ff1c615bc7d2905a3f397edd91176eef900712821e97f"
+    },
+    {
+      "title": "Calm Paths _ Relaxing Ambient - Zazax Music Lab",
+      "url": "assets/audio/music/owner/calm-paths-relaxing-ambient-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "36d1a4d160d4ed41d5835e3bf32fdcc25dfcce5d399cbf4e0f1adbafa28a57a5",
+      "audioSha256": "b46a43755402452d5f548444ff3b39bc1955b02c3e0300aabf6b2c63fb028e55"
+    },
+    {
+      "title": "Tension",
+      "url": "assets/audio/music/tension.ogg"
+    },
+    {
+      "title": "Dark Bass Signal _ Melodic Dubstep - Zazax Music Lab",
+      "url": "assets/audio/music/owner/dark-bass-signal-melodic-dubstep-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "1fc70559e88a78c90b5975de64c8aa8840f51b0726cf5d59e3730c193af69a9e",
+      "audioSha256": "a2ce5551f84dd03ee409698e74d1497f9f19024fe73d06ce102bb32c99027b6b"
+    },
+    {
+      "title": "Deep House Journey _ Perfect for Night Drives",
+      "url": "assets/audio/music/owner/deep-house-journey-perfect-for-night-drives.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "227cf71cf2711f36adf63a2bcb99b69069b3b9c3737a85cd064ffb90d8eee17a",
+      "audioSha256": "0bad9da88f79920e0a89fa08904835daaed20f3580464ac34bbecb7987534177"
+    },
+    {
+      "title": "Deep House Lounge _ Smooth Basslines & Atmospheric Pads - Zazax",
+      "url": "assets/audio/music/owner/deep-house-lounge-smooth-basslines-atmospheric-pads-zazax.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "a16d54a460bf7f559ee907122ef8ec0faf5cddd11bf9cd60ad7527e1dcaa6d0a",
+      "audioSha256": "f788e3fa5462a421b70903f1c7b5dc6c158b0f437a7a9dfa9786d7c0ecd5c1fe"
+    },
+    {
+      "title": "Combat",
+      "url": "assets/audio/music/combat.ogg"
+    },
+    {
+      "title": "Elegant Nightfall _ Deep House - Zazax Music Lab",
+      "url": "assets/audio/music/owner/elegant-nightfall-deep-house-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "3c41f4095c22e0f7ff41dbda070b6ebb665c7da864faeae7c1a12603ccc72e03",
+      "audioSha256": "e1b7890ca9d4e5eaa1310d792e399de026055a1905a1424f9b8e931114594140"
+    },
+    {
+      "title": "Eternal Echoes _ Cinematic Electronic - Zazax Music Lab",
+      "url": "assets/audio/music/owner/eternal-echoes-cinematic-electronic-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "6205564d9f2123897fcee3e561943164ad5a471183b0f3f97a6defdb4758db94",
+      "audioSha256": "a3ef027476e0189da0f783f069c6313406e8d39468fc5585460882977f22e48c"
+    },
+    {
+      "title": "Ethereal Night Drive - 118 BPM Deep House _ Zazax Music Lab",
+      "url": "assets/audio/music/owner/ethereal-night-drive-118-bpm-deep-house-zazax-music-lab.ogg",
+      "duration": 296.606521,
+      "sourceSha256": "af0a7b6a722b2227fde0266efea52207c416eb873c2cd3767a01128283d54066",
+      "audioSha256": "a6dca469eb0acae863d0d0237cb3819f143f0a4b3a3b846398a6f39c94aeca71"
+    },
+    {
+      "title": "Boss",
+      "url": "assets/audio/music/boss.ogg"
+    },
+    {
+      "title": "Grey Neon Pulse _ Techno Night Drive - Zazax Music Lab",
+      "url": "assets/audio/music/owner/grey-neon-pulse-techno-night-drive-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "26258fcb0b6fadffa5c97f5b195212c36fce3da110a57397a5eff02dd0d3fc0e",
+      "audioSha256": "f9b8617ede6ef1bebaceeaab37f28b02f012ebf0d1e55e96470db96fb0044862"
+    },
+    {
+      "title": "Night Highway Drive - Warm Bass & House Groove _ Zazax Music Lab",
+      "url": "assets/audio/music/owner/night-highway-drive-warm-bass-house-groove-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "22f32219857f6fe7a227fa5c12e1170809b9eeeb80f87b265bffb5ed9a498c88",
+      "audioSha256": "5e228717a0c0a40eb33eb435ed1f6499e833ce021226266038f79b0f7dc0278b"
+    },
+    {
+      "title": "Rolling Highway Hypnosis _ Trance Techno - Zazax Music Lab",
+      "url": "assets/audio/music/owner/rolling-highway-hypnosis-trance-techno-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "bd9f67b05a5aaec5eefbcd38fcfe4a448be4745e39afd4291c85039fc28c12d5",
+      "audioSha256": "cb4895e4a69d0a3d8ba5f464f15978f22574f3788058d5ee277735d5ae5513dc"
+    }
+  ],
+  "ownerTracks": [
+    {
+      "title": "After Hours Glow _ Deep House Music - Zazax Music Lab",
+      "url": "assets/audio/music/owner/after-hours-glow-deep-house-music-zazax-music-lab.ogg",
+      "duration": 2256.2065,
+      "sourceSha256": "33018d26e87844170f48af1dcb4ba875f6da3af2026f9e63a455de74941a26b3",
+      "audioSha256": "35fb40cff17100109533c69c7e4665f6cf82f48d5ca00cbd644826d4a77d13ae"
+    },
+    {
+      "title": "Amber Hours _ Deep House Night Drive - Zazax Music Lab",
+      "url": "assets/audio/music/owner/amber-hours-deep-house-night-drive-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "1bade4f29ed31dfdf97d625ae7f1ae3c220a9bcb92ce36cbb64b7267c1afd640",
+      "audioSha256": "53556222c4c58160224ff1c615bc7d2905a3f397edd91176eef900712821e97f"
+    },
+    {
+      "title": "Calm Paths _ Relaxing Ambient - Zazax Music Lab",
+      "url": "assets/audio/music/owner/calm-paths-relaxing-ambient-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "36d1a4d160d4ed41d5835e3bf32fdcc25dfcce5d399cbf4e0f1adbafa28a57a5",
+      "audioSha256": "b46a43755402452d5f548444ff3b39bc1955b02c3e0300aabf6b2c63fb028e55"
+    },
+    {
+      "title": "Dark Bass Signal _ Melodic Dubstep - Zazax Music Lab",
+      "url": "assets/audio/music/owner/dark-bass-signal-melodic-dubstep-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "1fc70559e88a78c90b5975de64c8aa8840f51b0726cf5d59e3730c193af69a9e",
+      "audioSha256": "a2ce5551f84dd03ee409698e74d1497f9f19024fe73d06ce102bb32c99027b6b"
+    },
+    {
+      "title": "Deep House Journey _ Perfect for Night Drives",
+      "url": "assets/audio/music/owner/deep-house-journey-perfect-for-night-drives.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "227cf71cf2711f36adf63a2bcb99b69069b3b9c3737a85cd064ffb90d8eee17a",
+      "audioSha256": "0bad9da88f79920e0a89fa08904835daaed20f3580464ac34bbecb7987534177"
+    },
+    {
+      "title": "Deep House Lounge _ Smooth Basslines & Atmospheric Pads - Zazax",
+      "url": "assets/audio/music/owner/deep-house-lounge-smooth-basslines-atmospheric-pads-zazax.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "a16d54a460bf7f559ee907122ef8ec0faf5cddd11bf9cd60ad7527e1dcaa6d0a",
+      "audioSha256": "f788e3fa5462a421b70903f1c7b5dc6c158b0f437a7a9dfa9786d7c0ecd5c1fe"
+    },
+    {
+      "title": "Elegant Nightfall _ Deep House - Zazax Music Lab",
+      "url": "assets/audio/music/owner/elegant-nightfall-deep-house-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "3c41f4095c22e0f7ff41dbda070b6ebb665c7da864faeae7c1a12603ccc72e03",
+      "audioSha256": "e1b7890ca9d4e5eaa1310d792e399de026055a1905a1424f9b8e931114594140"
+    },
+    {
+      "title": "Eternal Echoes _ Cinematic Electronic - Zazax Music Lab",
+      "url": "assets/audio/music/owner/eternal-echoes-cinematic-electronic-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "6205564d9f2123897fcee3e561943164ad5a471183b0f3f97a6defdb4758db94",
+      "audioSha256": "a3ef027476e0189da0f783f069c6313406e8d39468fc5585460882977f22e48c"
+    },
+    {
+      "title": "Ethereal Night Drive - 118 BPM Deep House _ Zazax Music Lab",
+      "url": "assets/audio/music/owner/ethereal-night-drive-118-bpm-deep-house-zazax-music-lab.ogg",
+      "duration": 296.606521,
+      "sourceSha256": "af0a7b6a722b2227fde0266efea52207c416eb873c2cd3767a01128283d54066",
+      "audioSha256": "a6dca469eb0acae863d0d0237cb3819f143f0a4b3a3b846398a6f39c94aeca71"
+    },
+    {
+      "title": "Grey Neon Pulse _ Techno Night Drive - Zazax Music Lab",
+      "url": "assets/audio/music/owner/grey-neon-pulse-techno-night-drive-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "26258fcb0b6fadffa5c97f5b195212c36fce3da110a57397a5eff02dd0d3fc0e",
+      "audioSha256": "f9b8617ede6ef1bebaceeaab37f28b02f012ebf0d1e55e96470db96fb0044862"
+    },
+    {
+      "title": "Night Highway Drive - Warm Bass & House Groove _ Zazax Music Lab",
+      "url": "assets/audio/music/owner/night-highway-drive-warm-bass-house-groove-zazax-music-lab.ogg",
+      "duration": 300.1065,
+      "sourceSha256": "22f32219857f6fe7a227fa5c12e1170809b9eeeb80f87b265bffb5ed9a498c88",
+      "audioSha256": "5e228717a0c0a40eb33eb435ed1f6499e833ce021226266038f79b0f7dc0278b"
+    },
+    {
+      "title": "Rolling Highway Hypnosis _ Trance Techno - Zazax Music Lab",
+      "url": "assets/audio/music/owner/rolling-highway-hypnosis-trance-techno-zazax-music-lab.ogg",
+      "duration": 180.1065,
+      "sourceSha256": "bd9f67b05a5aaec5eefbcd38fcfe4a448be4745e39afd4291c85039fc28c12d5",
+      "audioSha256": "cb4895e4a69d0a3d8ba5f464f15978f22574f3788058d5ee277735d5ae5513dc"
+    }
+  ]
+}

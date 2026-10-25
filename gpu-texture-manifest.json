@@ -21,6 +21,7 @@
       "marine_elevated",
       "runner",
       "screamer",
+      "sentinel",
       "skitter",
       "skitter_debris",
       "skitter_shell0",
@@ -2345,8 +2346,61 @@
       "bytes": 1073540,
       "rawSha256": "e8128962f26d9faa4b319c7e6d1be8f946413a3d8e24166ce5fec559094422c8",
       "sha256": "d8c70625046dc46a13081b9453f9f5fc7c43e2bc523ffcea31bf046fbeb5bcdd"
+    },
+    "pc/sentinel-0.ktx.gz": {
+      "rawBytes": 16777284,
+      "bytes": 6500088,
+      "rawSha256": "dafb19538906cc77ae0c06fde9e9e0b7b8a2a8998e2f0f1071612d8e8774e7dd",
+      "sha256": "ca9b3b5fe2ca0c2147b2947e81796310b102cfcfd8b14b60c6eef831622a5aa7"
+    },
+    "pc/sentinel-1.ktx.gz": {
+      "rawBytes": 16777284,
+      "bytes": 7372803,
+      "rawSha256": "5de51075768243899b3520857ca2ed0c5b8698575ca7291616033918a0d31057",
+      "sha256": "d63b91625fc9a39cb3bffca2f7710641fa04fec45e735e4c9eae1ade8a710d6f"
+    },
+    "pc/sentinel-2.ktx.gz": {
+      "rawBytes": 16777284,
+      "bytes": 7464731,
+      "rawSha256": "4d5ac7b8f18f571f8c9dd4fdf9fd2bbe852b02bfa7dfda04ff36d9e051f3ff43",
+      "sha256": "47722f30af5f00734038d65f1d5a952f2c2b6b11c5e949057905a61f69085f4c"
+    },
+    "pc/sentinel-3.ktx.gz": {
+      "rawBytes": 16777284,
+      "bytes": 7674740,
+      "rawSha256": "5185fa213ff62a89ff31758fa5b776810115711edf058efa791e345c5260d3b7",
+      "sha256": "eade03f113d2225c35504452a0e2aee830d59a558e96831ec766aa7764e899b1"
+    },
+    "pc/sentinel-4.ktx.gz": {
+      "rawBytes": 16777284,
+      "bytes": 8387794,
+      "rawSha256": "4770aa5d837281b2dba7056e1175db6ebbaa72eb873e628ef0e9b796316b48cc",
+      "sha256": "9052376d6c0e726f4315ab8390e00a62d383c89ddd74d916d57a6ae08a8c7a3f"
+    },
+    "pc/sentinel-5.ktx.gz": {
+      "rawBytes": 8388676,
+      "bytes": 2296740,
+      "rawSha256": "60bafc47bb49f1605b7845ee55b9b708c11e77514bc42e4ae22ccbd92ff57467",
+      "sha256": "af09ee03b2a081bd6e7ee3b1f8fe870bf5fafc67acd6ab6c15b7ca3aba6ec2c6"
     }
   },
-  "rawBytes": 3315380020,
-  "bytes": 1206951575
+  "rawBytes": 3407655116,
+  "bytes": 1246648471,
+  "quality": {
+    "sentinel": {
+      "baseline": "Approved runtime PC pixels, not native 3D master",
+      "frames": 2320,
+      "comparisons": 4640,
+      "worst": {
+        "key": "body/rockets/05/04",
+        "elite": 1.5,
+        "psnr": 47.52886281473123,
+        "size": [
+          782,
+          782
+        ]
+      },
+      "normalMaps": "unchanged exact original images"
+    }
+  }
 }
